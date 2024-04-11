@@ -5,7 +5,7 @@ Problem Statement:
 A company has a vast amount of data stored in SQL databases, and they want to extract meaningful insights from this data. However, the data may be spread across multiple tables, with varying structures and formats. The challenge is to efficiently query and analyze this data to derive valuable insights that can inform decision-making and drive business growth.
 
 
-Key Challenges:
+# Key Challenges:
 
 Data Complexity: The data stored in SQL databases may be complex, with multiple tables, relationships, and data types. Understanding the schema and relationships between different tables is crucial for effective analysis.
 
@@ -17,7 +17,7 @@ Query Performance: Writing efficient SQL queries that retrieve the required data
 
 Insight Generation: Extracting actionable insights from the data requires not only querying the data but also applying analytical techniques such as data mining, statistical analysis, and machine learning. This involves transforming raw data into meaningful metrics, trends, and patterns that can drive decision-making.
 
-Approach to Solving the Problem:
+# Approach to Solving the Problem:
 
 Data Exploration: Begin by understanding the data schema, relationships between tables, and the nature of the data stored in each table. This involves querying metadata tables and exploring sample data to gain insights into the data structure and content.
 
@@ -30,7 +30,7 @@ Analysis and Visualization: Perform data analysis using statistical techniques, 
 Iterative Process: Data analysis is often an iterative process, where insights lead to further questions and refinements. Continuously review and refine the analysis based on feedback and new discoveries.
 
 
-Solution:
+# Solution:
 
 • Designed a Power BI dashboard to understand AtliQ hardware goods sales trend.
 • The final dashboard was effective at displaying the sales trend of hardware company, allowing users to understand
